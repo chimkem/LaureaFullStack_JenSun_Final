@@ -1,2 +1,3 @@
 # LaureaFullStack_JenSun_Final
 FullStack kurssin viimeinen projektitehtävä; REACT ja Next.js 
+...
