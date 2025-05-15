@@ -58,19 +58,19 @@ export default async function InvoicesTable({
             <thead className="rounded-lg text-left text-sm font-normal">
               <tr>
                 <th scope="col" className="px-4 py-5 font-medium sm:pl-6">
-                  Customer
+                  Asiakas
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Email
+                  Sähköposti
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Amount
+                  Määrä
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Date
+                  Päivämäärä
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Status
+                  Tila
                 </th>
                 <th scope="col" className="relative py-3 pl-6 pr-3">
                   <span className="sr-only">Edit</span>
