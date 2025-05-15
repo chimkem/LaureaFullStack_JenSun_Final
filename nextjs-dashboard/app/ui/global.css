@@ -16,3 +16,13 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+.bg-blue-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(135, 126, 219);
+}
+
+.bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(135, 126, 219);
+}
